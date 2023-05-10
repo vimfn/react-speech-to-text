@@ -9,10 +9,10 @@ export const metadata = {
 export default function Home() {
   return (
     <div className="hero min-h-screen bg-base-200">
-      <div className="hero-content flex-col gap-48 lg:flex-row-reverse">
+      <div className="hero-content flex-col lg:gap-48 gap-5 lg:flex-row-reverse">
         <img
           src="https://static.zerochan.net/Hayashida.Airi.full.1626740.jpg"
-          className="max-w-sm rounded-lg shadow-2xl"
+          className="h-96 rounded-lg lg:shadow-2xl w-64"
         />
         <Text />
       </div>
