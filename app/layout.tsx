@@ -5,10 +5,6 @@ import 'regenerator-runtime/runtime'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const metadata = {
-  title: 'Live Speech To text',
-  description: '🎙️ > 📝',
-}
 
 export default function RootLayout({
   children,
