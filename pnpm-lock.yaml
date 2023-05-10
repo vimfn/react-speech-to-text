@@ -40,6 +40,9 @@ dependencies:
   react-use-clipboard:
     specifier: ^1.0.9
     version: 1.0.9(react-dom@18.2.0)(react@18.2.0)
+  regenerator-runtime:
+    specifier: ^0.13.11
+    version: 0.13.11
   tailwindcss:
     specifier: 3.3.2
     version: 3.3.2
@@ -51,6 +54,9 @@ devDependencies:
   '@types/react-speech-recognition':
     specifier: ^3.9.2
     version: 3.9.2
+  '@types/regenerator-runtime':
+    specifier: ^0.13.1
+    version: 0.13.1
 
 packages:
 
@@ -326,6 +332,10 @@ packages:
       '@types/scheduler': 0.16.3
       csstype: 3.1.2
     dev: false
+
+  /@types/regenerator-runtime@0.13.1:
+    resolution: {integrity: sha512-Wr4Kopo+zs7kl1mxveVrP7Hl5nEzauQKdSNFN5Eg27Ze11MAgJYKgidYc9AAkQzGXXWH9lqVzPbXUGH6M8VY6g==}
+    dev: true
 
   /@types/scheduler@0.16.3:
     resolution: {integrity: sha512-5cJ8CB4yAx7BH1oMvdU0Jh9lrEXyPkar6F9G/ERswkCuvP4KQZfZkSjcMbAICCpQTN4OuZn8tz0HiKv9TGZgrQ==}
