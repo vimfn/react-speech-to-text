@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# React Speech-to-Text Online App
 
-## Getting Started
+This is a simple web app that uses the Web Speech API to transcribe spoken words into text. It was built with React, Next.js, TypeScript, and Tailwind CSS.
 
-First, run the development server:
+![Demo GIF](path/to/demo.gif)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## How to Use
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Press the "Start" button to begin listening to your voice.
+2. Start speaking. The text will appear in the box below.
+3. Press the "Stop" button when you're done speaking.
+4. Press the "Reset" button to clear the text.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Installation
 
-## Learn More
+To run this app locally, follow these steps:
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone this repository: `git clone https://github.com/its-ag/react-sst-example.git`
+2. Install the dependencies: `npm install`
+3. Run the app: `npm run dev`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This should start a development server at `http://localhost:3000`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Libraries Used
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [react-speech-recognition](https://www.npmjs.com/package/react-speech-recognition)
