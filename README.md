@@ -15,7 +15,7 @@ https://github.com/its-ag/react-sst-example/assets/102473837/2088c04b-3cfa-4e54-
 
 To run this app locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/its-ag/react-sst-example.git`
+1. Clone this repository: `git clone https://github.com/its-ag/react-speach-to-tex.git`
 2. Install the dependencies: `npm install`
 3. Run the app: `npm run dev`
 
