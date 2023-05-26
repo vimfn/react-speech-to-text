@@ -2,8 +2,7 @@
 
 This is a simple web app that uses the Web Speech API to transcribe spoken words into text. It was built with React, Next.js, TypeScript, and Tailwind CSS.
 
-![Demo GIF](path/to/demo.gif)
-
+https://github.com/its-ag/react-sst-example/assets/102473837/2088c04b-3cfa-4e54-9c93-66e64ef1c265
 
 ## How to Use
 
@@ -29,3 +28,6 @@ This should start a development server at `http://localhost:3000`.
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [react-speech-recognition](https://www.npmjs.com/package/react-speech-recognition)
+
+--- 
+ Thanks [@BlankParticle](https://github.com/BlankParticle) for the preview video.
