@@ -17,7 +17,7 @@ https://github.com/its-ag/react-speech-to-text/assets/102473837/83bd8269-285b-46
 
 To run this app locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/its-ag/react-speech-to-tex.git`
+1. Clone this repository: `git clone https://github.com/its-ag/react-speech-to-text.git`
 2. Install the dependencies: `npm install`
 3. Run the app: `npm run dev`
 
