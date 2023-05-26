@@ -2,7 +2,9 @@
 
 This is a simple web app that uses the Web Speech API to transcribe spoken words into text. It was built with React, Next.js, TypeScript, and Tailwind CSS.
 
-https://github.com/its-ag/react-sst-example/assets/102473837/2088c04b-3cfa-4e54-9c93-66e64ef1c265
+
+https://github.com/its-ag/react-speech-to-text/assets/102473837/83bd8269-285b-46fc-8645-4aabf48169a5
+
 
 ## How to Use
 
