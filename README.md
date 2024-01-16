@@ -30,6 +30,3 @@ This should start a development server at `http://localhost:3000`.
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [react-speech-recognition](https://www.npmjs.com/package/react-speech-recognition)
-
---- 
- Thanks [@BlankParticle](https://github.com/BlankParticle) for the preview video.
